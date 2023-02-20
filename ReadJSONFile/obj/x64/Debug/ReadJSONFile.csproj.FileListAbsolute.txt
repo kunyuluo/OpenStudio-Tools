@@ -1,0 +1,15 @@
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\ReadJSONFile.exe.config
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\ReadJSONFile.exe
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\ReadJSONFile.pdb
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\OpenStudio.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\x64\Debug\ReadJSONFile.csproj.AssemblyReference.cache
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\x64\Debug\ReadJSONFile.csproj.CoreCompileInputs.cache
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\x64\Debug\ReadJSONFile.csproj.CopyComplete
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\x64\Debug\ReadJSONFile.exe
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\x64\Debug\ReadJSONFile.pdb
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\openstudiolib.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\openstudio_csharp.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\openstudio_model_csharp.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\x64\Debug\openstudio_translators_csharp.dll

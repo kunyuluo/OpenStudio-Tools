@@ -1,0 +1,10 @@
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\Debug\ReadJSONFile.exe.config
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\Debug\ReadJSONFile.exe
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\Debug\ReadJSONFile.pdb
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\Debug\ReadJSONFile.csproj.AssemblyReference.cache
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\Debug\ReadJSONFile.csproj.CoreCompileInputs.cache
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\Debug\ReadJSONFile.exe
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\Debug\ReadJSONFile.pdb
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\OpenStudioDev\ReadJSONFile\ReadJSONFile\obj\Debug\ReadJSONFile.csproj.CopyComplete
