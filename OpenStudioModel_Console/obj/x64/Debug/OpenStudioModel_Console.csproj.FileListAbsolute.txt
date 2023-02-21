@@ -1,0 +1,15 @@
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\OpenStudio.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\openstudiolib.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\openstudio_csharp.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\openstudio_model_csharp.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\openstudio_translators_csharp.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\OpenStudioModel_Console.exe.config
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\OpenStudioModel_Console.exe
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\OpenStudioModel_Console.pdb
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\obj\x64\Debug\OpenStudioModel_Console.csproj.AssemblyReference.cache
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\obj\x64\Debug\OpenStudioModel_Console.csproj.CoreCompileInputs.cache
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\obj\x64\Debug\OpenStudioModel_Console.csproj.CopyComplete
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\obj\x64\Debug\OpenStudioModel_Console.exe
+D:\Projects\OpenStudioDev\OpenStudio_Tools\OpenStudio-Tools\OpenStudioModel_Console\obj\x64\Debug\OpenStudioModel_Console.pdb
