@@ -41,8 +41,8 @@ namespace OpenStudioModel.Geometries
                 srf.setOutsideBoundaryCondition(ousideBoundaryCondition);
                 srf.setSunExposure(sunExposure);
                 srf.setWindExposure(windExposure);
-                //srf.setConstruction(constructionBase);
-                //srf.setSpace(space);
+                if(constructionBase != null) { srf.setConstruction(constructionBase); }
+                if(space != null) { srf.setSpace(space); }
 
 
             }
