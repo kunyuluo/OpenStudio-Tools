@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using Newtonsoft.Json;
 using OpenStudio;
 using OpenStudioModel_Console.Geometries;
+using OpenStudioModel_Console.Schedule.Template;
 
 namespace OpenStudioModel_Console
 {
@@ -32,7 +33,7 @@ namespace OpenStudioModel_Console
             List<string> zoneNames = new List<string> { };
             foreach (ThermalZone zone in zones)
             {
-                Console.WriteLine(zone.nameString());
+                //Console.WriteLine(zone.nameString());
                 string name = zone.nameString();
                 zoneNames.Add(name);
             }
@@ -40,10 +41,16 @@ namespace OpenStudioModel_Console
             //Create an envelope surface:
             Surface wall = GeoTools.MakeSurface(model, info.geometry.boundary, GeoTools.MakeVector3d(info.geometry.plane.n));
 
-            Console.WriteLine(wall.outsideBoundaryCondition());
+            DefaultScheduleSet scheduleSet = new DefaultScheduleSet(model);
 
-            Console.WriteLine(wall.GetType().ToString());
-            Console.WriteLine(wall.surfaceType());
+            Office office_sch = new Office(model);
+            var occ = office_sch.Occupancy;
+            Console.WriteLine(occ.scheduleRules()[0].to_ScheduleRule().get().daySchedule().values().ToArray().Length);
+            
+
+            //Console.WriteLine(wall.outsideBoundaryCondition());
+            //Console.WriteLine(wall.GetType().ToString());
+            //Console.WriteLine(wall.surfaceType());
 
 
             Console.WriteLine("Well Done!!!");
