@@ -13,8 +13,8 @@ namespace OpenStudioModel_Console.Schedule
         public static ScheduleTypeLimits TypeLimits(
             Model model,
             string unitType,
-            double upperLimit = -9999,
             double lowerLimit = -9999,
+            double upperLimit = -9999,
             string numericType = null,
             string name = null,
             string displayName = null)
@@ -101,7 +101,7 @@ namespace OpenStudioModel_Console.Schedule
                 }
                     
             }
-            schedule.setScheduleTypeLimits(typeLimits);
+            if (typeLimits != null) { schedule.setScheduleTypeLimits(typeLimits); }
 
             return schedule;
         }

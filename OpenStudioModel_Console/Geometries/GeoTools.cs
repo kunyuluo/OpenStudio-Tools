@@ -121,6 +121,11 @@ namespace OpenStudioModel_Console.Geometries
 
                 Surface = new SubSurface(pt_vec, model);
 
+                //Alternatives include:
+                //FixedWindow            OverheadDoor
+                //OperableWindow         Skylight
+                //Door                   TubularDaylightDome
+                //GlassDoor              TubularDaylightDiffuser
                 Surface.setSubSurfaceType("FixedWindow");
                 if (constructionBase != null) { Surface.setConstruction(constructionBase); }
                 if (surface != null) { Surface.setSurface(surface); }
